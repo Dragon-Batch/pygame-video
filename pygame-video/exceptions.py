@@ -1,0 +1,2 @@
+class NoAudioOrVideoException(Exception):
+    pass
